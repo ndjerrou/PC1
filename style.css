@@ -1,0 +1,12 @@
+#candidates {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  cursor: pointer;
+}
